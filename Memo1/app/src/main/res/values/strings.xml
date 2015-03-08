@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Memo1</string>
+    <string name="main_title">MultiMemo</string>
+    <string name="new_title">New Memo</string>
+    <string name="view_title">Memo View</string>
+    <string name="memo_title">Memo</string>
+    <string name="no_sdcard_message">No SD card. Please insert SD card first.</string>
+    <string name="item_count">items</string>
+    <string name="close_btn">Close</string>
+    <string name="text_btn">Text</string>
+    <string name="save_btn">Save</string>
+    <string name="delete_btn">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="modify_btn">Modify</string>
+    <string name="confirm_btn">Confirm</string>
+    <string name="text_input_message">Input a text.</string>
+    <string name="memo_delete_question">Do you really want to delete the memo?</string>
+    <string name="yes_btn">Yes</string>
+    <string name="no_btn">No</string>
+</resources>
